@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Daiki Iwasaki" #"Your Name / Site Titl"
 title_separator          : "-"
-name                     : &name "Suchetha Cooray"
-description              : &description "Second year master student"
+name                     : &name "Daiki Iwasaki"
+description              : &description "Astrophysics Researcher"
 url                      : https://iwasakida.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iwasakida/iwasakida.github.io"
@@ -55,27 +55,27 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# # Social Sharing
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+# # Analytics
+# analytics:
+#   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          :
 
 
 # Site Author
